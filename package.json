@@ -23,6 +23,6 @@
   },
   "dependencies": {
     "request": "2.9.x",
-    "jsdom-no-contextify": "3.1.x"
+    "jsdom": "4.0.0"
   }
 }
